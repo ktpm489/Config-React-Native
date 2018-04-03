@@ -1,0 +1,8 @@
+HBWallet-> General (Signing (debug), singing (release)
+1. Install npm lai ,
+brew install npm
+2. Insll node js
+3.pod install
+4.npm install --save react-native@latest
+5.sudo npm install -g react-native-cli    
+6. Dung ThirdParty ,ThirdParty Pods replace
